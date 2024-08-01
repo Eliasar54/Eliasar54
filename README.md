@@ -22,4 +22,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=YuGi-BOT-1.3&theme=merko" alt="YuGi-BOT-1.3 GitHub Stats"/>
 </a>
 
+<p align="center">
+  <img src="https://github.com/Eliasar54/Eliasar54/blob/main/lv_7220731565892963586_20240731223211.gif" alt="gay?"/>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer"/>
