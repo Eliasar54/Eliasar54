@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <img title="ansi" src="https://telegra.ph/file/24a4c7f209e59e40e6334.gif">
+  <img title="ansi" src="https://github.com/Eliasar54/Eliasar54/blob/main/VID-20240801-WA1048.gif" width="300" height="300">
 </p>
 
 <p align="center">
@@ -22,8 +22,18 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=YuGi-BOT-1.3&theme=merko" alt="YuGi-BOT-1.3 GitHub Stats"/>
 </a>
 
+<h2 align="center"> ESTADÍSTICAS DE GITHUB </h2>
+
 <p align="center">
-  <img src="https://github.com/Eliasar54/Eliasar54/blob/main/lv_7220731565892963586_20240731223211.gif" alt="gay?"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Eliasar54&show_icons=true&theme=merko" alt="Estadísticas de GitHub"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliasar54&layout=compact&theme=merko" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliasar54&theme=merko" alt="GitHub Streak Stats"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer"/>
