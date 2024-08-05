@@ -1,4 +1,9 @@
-## hola 👋 Bienvenido, te presento mi perfil ✨
+<!-- Borde superior animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Bienvenido%20a%20mi%20perfil&fontSize=30&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+
+<div style="border: 10px solid; border-image: linear-gradient(to bottom, #FF7F50, #FF4500); border-image-slice: 1;">
+
+## Hola 👋 Bienvenido, te presento mi perfil ✨
 
 <a href="https://www.youtube.com/@Eliasar_yt" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
@@ -36,4 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eliasar54&theme=merko" alt="GitHub Streak Stats"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=150&section=footer"/>
+</div>
+
+<!-- Borde inferior animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
