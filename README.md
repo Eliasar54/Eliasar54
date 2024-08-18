@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"/>
 </a>
 
-<p align="center">
-  <img title="ansi" src="https://qu.ax/qceP.gif" width="300" height="300">
-</p>
+<img src="https://raw.githubusercontent.com/Eliasar54/Eliasar54/main/_abstract%20_computer%20_keyboard%20_livewallpaper%20_livewallpapers%20_wallpaper%20_wallpapers(MP4).gif">
 
 <p align="center">
   <img src="https://telegra.ph/file/f0e9eafb5ec5c186c8f49.jpg" alt="ELIASAR-YT" width="900"/>
