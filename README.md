@@ -10,7 +10,7 @@
 </a>
 
 <p align="center">
-  <img title="ansi" src="https://github.com/Eliasar54/Eliasar54/blob/main/VID-20240801-WA1048.gif" width="300" height="300">
+  <img title="ansi" src="https://qu.ax/qceP.gif" width="300" height="300">
 </p>
 
 <p align="center">
