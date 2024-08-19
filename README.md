@@ -27,6 +27,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=YuGi-BOT-1.3&theme=merko" alt="YuGi-BOT-1.3 GitHub Stats"/>
 </a>
 
+<h2 align="center"> PROYECTOS EN COLABORACIÓN</h2>
+<a href="https://github.com/El-brayan502/T-H-E-BROLY-BOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=T-H-E-BROLY-BOT&theme=merko" alt="T-H-E-BROLY-BOT GitHub Stats"/>
+</a>
+
+
 <h2 align="center"> ESTADÍSTICAS DE GITHUB </h2>
 
 <p align="center">
