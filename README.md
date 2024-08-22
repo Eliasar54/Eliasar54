@@ -23,8 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=ansi-BOT-MD&theme=merko" alt="ansi-BOT-MD GitHub Stats"/>
 </a>
 
-<a href="https://github.com/Eliasar54/YuGi-BOT-1.3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=YuGi-BOT-1.3&theme=merko" alt="YuGi-BOT-1.3 GitHub Stats"/>
+<a href="https://github.com/Eliasar54/SAMURAI-BOT.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=SAMURAI-BOT&theme=merko" alt="SAMURAI-BOT GitHub Stats"/>
 </a>
 
 <h2 align="center"> PROYECTOS EN COLABORACIÓN</h2>
