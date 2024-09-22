@@ -18,7 +18,9 @@
 </p>
 
 <h2 align="center"> MIS PROYECTOS </h2>
-
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p>
 <a href="https://github.com/Eliasar54/ansi-BOT-MD">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=ansi-BOT-MD&theme=merko" alt="ansi-BOT-MD GitHub Stats"/>
 </a>
