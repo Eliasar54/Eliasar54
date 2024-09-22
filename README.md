@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f0e9eafb5ec5c186c8f49.jpg" alt="ELIASAR-YT" width="900"/>
+  <img src="https://github.com/Eliasar54.png" alt="ELIASAR-YT" width="900"/>
 </p>
 
 <h2 align="center"> MIS PROYECTOS </h2>
