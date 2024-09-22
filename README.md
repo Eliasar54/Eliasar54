@@ -30,13 +30,18 @@
 </a>
 
 <h2 align="center"> PROYECTOS EN COLABORACIÓN</h2>
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p>
 <a href="https://github.com/El-brayan502/T-H-E-BROLY-BOT">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=T-H-E-BROLY-BOT&theme=merko" alt="T-H-E-BROLY-BOT GitHub Stats"/>
 </a>
 
 
 <h2 align="center"> ESTADÍSTICAS DE GITHUB </h2>
-
+<p align="center"> 
+<img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eliasar54&show_icons=true&theme=merko" alt="Estadísticas de GitHub"/>
 </p>
