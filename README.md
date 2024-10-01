@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=SAMURAI-BOT&theme=merko" alt="SAMURAI-BOT GitHub Stats"/>
 </a>
 
+<a href="https://github.com/Eliasar54/ALFA-TG-.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=ALFA-TG-&theme=blueberry" alt="ALFA-TG GitHub Stats"/>
+</a>
+
 <h2 align="center"> PROYECTOS EN COLABORACIÓN</h2>
 <p align="center"> 
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
