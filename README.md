@@ -41,6 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=T-H-E-BROLY-BOT&theme=merko&bg_color=DFFFD6&title_color=32CD32&text_color=228B22&icon_color=00FF7F" alt="T-H-E-BROLY-BOT GitHub Stats"/>
 </a>
 
+<a href="https://github.com/El-brayan502/BROLYBOT-MD">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=BROLYBOT-MD&bg_color=0D1117&title_color=00FF7F&text_color=ADFF2F&icon_color=32CD32" alt="BROLYBOT-MD GitHub Stats"/>
+</a>
 
 <h2 align="center"> ESTADÍSTICAS DE GITHUB </h2>
 <p align="center"> 
