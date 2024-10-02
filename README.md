@@ -22,11 +22,11 @@
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p>
 <a href="https://github.com/Eliasar54/ansi-BOT-MD">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=ansi-BOT-MD&theme=merko" alt="ansi-BOT-MD GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=ansi-BOT-MD&theme=merko&bg_color=FFCCFF&title_color=FF69B4&text_color=FF1493&icon_color=FF69B4" alt="ansi-BOT-MD GitHub Stats"/>
 </a>
 
 <a href="https://github.com/Eliasar54/SAMURAI-BOT.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=SAMURAI-BOT&theme=merko" alt="SAMURAI-BOT GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eliasar54&repo=SAMURAI-BOT&theme=merko&bg_color=FFCCCC&title_color=FF4500&text_color=DC143C&icon_color=FF6347" alt="SAMURAI-BOT GitHub Stats"/>
 </a>
 
 <a href="https://github.com/Eliasar54/ALFA-TG-.git">
@@ -38,7 +38,7 @@
 <img src="https://github.com/GataNina-Li/GataNina-Li/blob/main/line.gif" width="400vw"> 
 </p>
 <a href="https://github.com/El-brayan502/T-H-E-BROLY-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=T-H-E-BROLY-BOT&theme=merko" alt="T-H-E-BROLY-BOT GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=El-brayan502&repo=T-H-E-BROLY-BOT&theme=merko&bg_color=DFFFD6&title_color=32CD32&text_color=228B22&icon_color=00FF7F" alt="T-H-E-BROLY-BOT GitHub Stats"/>
 </a>
 
 
